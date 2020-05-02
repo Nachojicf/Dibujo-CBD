@@ -6,7 +6,7 @@
 
 <font size=15>
 <font color=wite >
-<font face0"calibri"> Dibujo CBD </font>
+<font face0"calibri">Dibujo CBD</font>
 <DIV ALIGN=center>
 <IMG SRC="Dibujo CBD.jpg"width=250 height=250 alt="Dibujo CBD">
 </body>
